@@ -1,6 +1,6 @@
 # Team Meeting Minutes
 
-**Date:** January 15, 2024
+**Date:** January 15, 2024 (PLACEHOLDER - Students will change this)
 
 ## Attendees
 - Alice Johnson
