@@ -1,6 +1,6 @@
 # Team Meeting Minutes
 
-**Date:** January 15, 2024
+**Date:** February 3, 2024
 
 ## Attendees
 - Alice Johnson
